@@ -6,4 +6,4 @@ Below is an example of markdown in JSX.
   Try and change the background color to `tomato`.
 </div>
 
-# Aslan {#sec-}
+[Aslan]{style="color:blue"}
