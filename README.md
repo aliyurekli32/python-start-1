@@ -6,5 +6,5 @@ Below is an example of markdown in JSX..
   Try and change the background color to `tomato`.
   I try
 </div>
-${This\ is\ a\ {\color{red}Big}}\ Title$.
+${This\ is\ a\ {\color{red}Big}}\ Title$..
 
